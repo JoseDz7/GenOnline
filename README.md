@@ -23,7 +23,7 @@
 </details>
 
 ## Menu principal :
-![Image text](https://github.com/piratainformatico2/MetaInfo/blob/main/images/Screenshot_20211010-174623.png)
+![Image text](https://github.com/piratainformatico2/GenOnline/blob/main/images/Screenshot_20211019-221804.png)
 
 ## Instalación :
 
