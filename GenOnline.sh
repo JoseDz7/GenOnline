@@ -35,7 +35,12 @@ s="m"
 bcolor="\e[1;3$crnd$s"
 defaultport=8000
 
-error() { echo -e "${negro}[${verde} !! ${negro}] >>>${verde} Proceso interrupido por el usuario  $*"; exit 1
+error() { 
+echo -e "${negro}[${verde} !! ${negro}] >>>${verde} Servicio de ayuda : +52 2283821202${negro} :)"
+echo ""
+echo -e "${negro}[${verde} :D ${negro}] >>>${verde} Created by José Díaz${negro} :)"
+echo ""
+echo -e "${negro}[${verde} !! ${negro}] >>>${verde} Proceso interrupido por el usuario  $*"; exit 1
 }
 
 stop() {
