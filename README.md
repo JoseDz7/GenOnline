@@ -29,7 +29,7 @@
 ![Image text](https://github.com/piratainformatico2/GenOnline/blob/main/images/Screenshot_20211019-223038.png)
 
 ## Fin de la página :
-![Image text](
+![Image text](https://github.com/piratainformatico2/GenOnline/blob/main/images/Screenshot_20211019-223046.png)
 
 ## Instalación :
 
