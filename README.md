@@ -46,7 +46,7 @@ https://github.com/piratainformatico2/GenOnline
 * `./GenOnline.sh`
 
 ---
-###### `Passwords: JoseDiaz or undercon. User: random ` 
+###### `Saca lives 100% funcionales` 
 ###### `By: José Díaz +52 2283821202` 🇲🇽🇲🇽
 ---
 
