@@ -78,15 +78,16 @@ echo -e "
 local(){
 	banner
 echo ""
-echo -e "${negro}[${verde} !! ${negro}] >>>${verde} Veriricando internet${negro} :)"
+echo -e "${negro}[${verde} !! ${negro}] >>>${verde} Verificando internet${negro} :)"
 sleep 4
 echo ""
 echo -e "${negro}[${verde} :D ${negro}] >>>${verde} Abriendo servidores php${negro} :)"
-sleep 0.5
+sleep 3
 cd sites/pagina && php -S 127.0.0.1:8080 > /dev/null 2>&1 &
 sleep 2
 echo ""
 echo -e "${negro}[${verde} !! ${negro}] >>>${verde} LINK : localhost:8080"
+sleep 3
 echo ""
 echo -e "${negro} ctrl + c pasa salir!!${negro} :)"
 echo ""
