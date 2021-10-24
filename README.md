@@ -52,6 +52,7 @@ https://github.com/piratainformatico2/GenOnline
 * `./GenOnline.sh`
 
 ---
+###### `Update: Elegir el puerto que más te guste!!`
 ###### `Saca lives 100% funcionales` 
 ###### `By: José Díaz +52 2283821202` 🇲🇽🇲🇽
 ---
